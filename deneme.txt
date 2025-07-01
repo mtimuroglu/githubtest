@@ -1,1 +1,1 @@
-Bu dosya conflict testi içindir. (main versiyonu)
+Bu dosya conflict testi içindir. (conflict-test versiyonu)
